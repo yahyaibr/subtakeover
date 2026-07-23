@@ -1,5 +1,4 @@
 
-
 # 🔍 subtakeover
 
 **Passive subdomain enumeration + dangling-CNAME / subdomain-takeover scanner**
@@ -20,6 +19,15 @@
 </div>
 
 ---
+
+```
+███████╗██╗   ██╗██████╗ ███████╗████████╗ █████╗ ████████╗██╗   ██╗███████╗
+██╔════╝██║   ██║██╔══██╗██╔════╝╚══██╔══╝██╔══██╗╚══██╔══╝██║   ██║██╔════╝
+███████╗██║   ██║██████╔╝███████╗   ██║   ███████║   ██║   ██║   ██║███████╗
+╚════██║██║   ██║██╔══██╗╚════██║   ██║   ██╔══██║   ██║   ██║   ██║╚════██║
+███████║╚██████╔╝██████╔╝███████║   ██║   ██║  ██║   ██║   ╚██████╔╝███████║
+╚══════╝ ╚═════╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝
+```
 
 ## Overview
 
@@ -51,7 +59,7 @@ domains you own or have explicit permission to test.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/<your-username>/subtakeover.git
+git clone https://github.com/Yahyaibr/subtakeover.git
 cd subtakeover
 pip install -r requirements.txt
 ```
